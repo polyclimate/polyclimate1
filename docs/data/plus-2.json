@@ -1,0 +1,3642 @@
+[
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2010,
+		"value": 370.8962528
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2011,
+		"value": 372.6576832
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2012,
+		"value": 380.8097666
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2013,
+		"value": 381.5943928
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2014,
+		"value": 387.8735392
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2015,
+		"value": 388.0727957
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2016,
+		"value": 390.6009572355
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2017,
+		"value": 393.129118771
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2018,
+		"value": 398.185441842
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2019,
+		"value": 398.185441842
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2020,
+		"value": 399.4495226098
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2021,
+		"value": 401.9776841453
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2022,
+		"value": 410.0172378282
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2023,
+		"value": 418.2175825847
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2024,
+		"value": 426.5819342364
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2025,
+		"value": 435.1135729212
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2026,
+		"value": 443.8158443796
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2027,
+		"value": 452.6921612672
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2028,
+		"value": 461.7460044925
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2029,
+		"value": 470.9809245824
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2030,
+		"value": 480.400543074
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2031,
+		"value": 490.0085539355
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2032,
+		"value": 499.8087250142
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2033,
+		"value": 509.8048995145
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2034,
+		"value": 520.0009975048
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2035,
+		"value": 530.4010174549
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2036,
+		"value": 541.009037804
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2037,
+		"value": 551.8292185601
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2038,
+		"value": 562.8658029313
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2039,
+		"value": 574.1231189899
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2040,
+		"value": 585.6055813697
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2041,
+		"value": 597.3176929971
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2042,
+		"value": 609.264046857
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2043,
+		"value": 621.4493277942
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2044,
+		"value": 633.87831435
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2045,
+		"value": 646.5558806371
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2046,
+		"value": 659.4869982498
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2047,
+		"value": 672.6767382148
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2048,
+		"value": 686.1302729791
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2049,
+		"value": 699.8528784387
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2050,
+		"value": 713.8499360074
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2051,
+		"value": 728.1269347276
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2052,
+		"value": 742.6894734221
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2053,
+		"value": 757.5432628906
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2054,
+		"value": 772.6941281484
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2055,
+		"value": 788.1480107114
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2056,
+		"value": 803.9109709256
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2057,
+		"value": 819.9891903441
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2058,
+		"value": 836.388974151
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2059,
+		"value": 853.116753634
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2060,
+		"value": 870.1790887067
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2061,
+		"value": 887.5826704808
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2062,
+		"value": 905.3343238904
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2063,
+		"value": 923.4410103682
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2064,
+		"value": 941.9098305756
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2065,
+		"value": 960.7480271871
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2066,
+		"value": 979.9629877309
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2067,
+		"value": 999.5622474855
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2068,
+		"value": 1019.5534924352
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2069,
+		"value": 1039.9445622839
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2070,
+		"value": 1060.7434535296
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2071,
+		"value": 1081.9583226002
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2072,
+		"value": 1103.5974890522
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2073,
+		"value": 1125.6694388332
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2074,
+		"value": 1148.1828276099
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2075,
+		"value": 1171.1464841621
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2076,
+		"value": 1194.5694138453
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2077,
+		"value": 1218.4608021222
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2078,
+		"value": 1242.8300181647
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2079,
+		"value": 1267.686618528
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2080,
+		"value": 1293.0403508985
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2081,
+		"value": 1318.9011579165
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2082,
+		"value": 1345.2791810748
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2083,
+		"value": 1372.1847646963
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2084,
+		"value": 1399.6284599902
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2085,
+		"value": 1427.62102919
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2086,
+		"value": 1456.1734497738
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2087,
+		"value": 1485.2969187693
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2088,
+		"value": 1515.0028571447
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2089,
+		"value": 1545.3029142876
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2090,
+		"value": 1576.2089725733
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2091,
+		"value": 1607.7331520248
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2092,
+		"value": 1639.8878150653
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2093,
+		"value": 1672.6855713666
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2094,
+		"value": 1706.1392827939
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2095,
+		"value": 1740.2620684498
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2096,
+		"value": 1775.0673098188
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2097,
+		"value": 1810.5686560152
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2098,
+		"value": 1846.7800291355
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2099,
+		"value": 1883.7156297182
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CH4",
+		"unit": "Mt CH4/yr",
+		"year": 2100,
+		"value": 1921.3899423126
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2010,
+		"value": 3243.438262
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2011,
+		"value": 3348.037995
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2012,
+		"value": 3557.037995
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2013,
+		"value": 3366.371329
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2014,
+		"value": 4015.371329
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2015,
+		"value": 3517.44
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2016,
+		"value": 2957.1638233894
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2017,
+		"value": 2829.2192067488
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2018,
+		"value": 2730.8677651541
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2019,
+		"value": 2976.3874222736
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2020,
+		"value": 2650.1446030342
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2021,
+		"value": 2572.6120797333
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2022,
+		"value": 2624.064321328
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2023,
+		"value": 2676.5456077545
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2024,
+		"value": 2730.0765199096
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2025,
+		"value": 2784.6780503078
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2026,
+		"value": 2840.371611314
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2027,
+		"value": 2897.1790435403
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2028,
+		"value": 2955.1226244111
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2029,
+		"value": 3014.2250768993
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2030,
+		"value": 3074.5095784373
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2031,
+		"value": 3135.999770006
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2032,
+		"value": 3198.7197654061
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2033,
+		"value": 3262.6941607143
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2034,
+		"value": 3327.9480439286
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2035,
+		"value": 3394.5070048071
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2036,
+		"value": 3462.3971449033
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2037,
+		"value": 3531.6450878013
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2038,
+		"value": 3602.2779895574
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2039,
+		"value": 3674.3235493485
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2040,
+		"value": 3747.8100203355
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2041,
+		"value": 3822.7662207422
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2042,
+		"value": 3899.221545157
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2043,
+		"value": 3977.2059760602
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2044,
+		"value": 4056.7500955814
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2045,
+		"value": 4137.885097493
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2046,
+		"value": 4220.6427994429
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2047,
+		"value": 4305.0556554317
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2048,
+		"value": 4391.1567685404
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2049,
+		"value": 4478.9799039112
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2050,
+		"value": 4568.5595019894
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2051,
+		"value": 4659.9306920292
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2052,
+		"value": 4753.1293058698
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2053,
+		"value": 4848.1918919872
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2054,
+		"value": 4945.1557298269
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2055,
+		"value": 5044.0588444234
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2056,
+		"value": 5144.9400213119
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2057,
+		"value": 5247.8388217381
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2058,
+		"value": 5352.7955981729
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2059,
+		"value": 5459.8515101364
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2060,
+		"value": 5569.0485403391
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2061,
+		"value": 5680.4295111459
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2062,
+		"value": 5794.0381013688
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2063,
+		"value": 5909.9188633962
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2064,
+		"value": 6028.1172406641
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2065,
+		"value": 6148.6795854774
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2066,
+		"value": 6271.6531771869
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2067,
+		"value": 6397.0862407307
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2068,
+		"value": 6525.0279655453
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2069,
+		"value": 6655.5285248562
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2070,
+		"value": 6788.6390953533
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2071,
+		"value": 6924.4118772604
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2072,
+		"value": 7062.9001148056
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2073,
+		"value": 7204.1581171017
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2074,
+		"value": 7348.2412794437
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2075,
+		"value": 7495.2061050326
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2076,
+		"value": 7645.1102271332
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2077,
+		"value": 7798.0124316759
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2078,
+		"value": 7953.9726803094
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2079,
+		"value": 8113.0521339156
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2080,
+		"value": 8275.3131765939
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2081,
+		"value": 8440.8194401258
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2082,
+		"value": 8609.6358289283
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2083,
+		"value": 8781.8285455069
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2084,
+		"value": 8957.465116417
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2085,
+		"value": 9136.6144187454
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2086,
+		"value": 9319.3467071203
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2087,
+		"value": 9505.7336412627
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2088,
+		"value": 9695.8483140879
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2089,
+		"value": 9889.7652803697
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2090,
+		"value": 10087.5605859771
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2091,
+		"value": 10289.3117976966
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2092,
+		"value": 10495.0980336506
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2093,
+		"value": 10704.9999943236
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2094,
+		"value": 10919.09999421
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2095,
+		"value": 11137.4819940942
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2096,
+		"value": 11360.2316339761
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2097,
+		"value": 11587.4362666556
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2098,
+		"value": 11819.1849919888
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2099,
+		"value": 12055.5686918285
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|AFOLU",
+		"unit": "Mt CO2/yr",
+		"year": 2100,
+		"value": 12296.6800656651
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2010,
+		"value": 32890.3978
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2011,
+		"value": 33917.99126
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2012,
+		"value": 34396.87388
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2013,
+		"value": 35396.3397
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2014,
+		"value": 35615.57673
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2015,
+		"value": 35635.2863
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2016,
+		"value": 35600.8396158822
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2017,
+		"value": 36174.6209951183
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2018,
+		"value": 36905.9628532573
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2019,
+		"value": 37162.5676765373
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2020,
+		"value": 35340.1709335068
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2021,
+		"value": 37203.9481491904
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2022,
+		"value": 37948.0271121742
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2023,
+		"value": 38706.9876544177
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2024,
+		"value": 39481.127407506
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2025,
+		"value": 40270.7499556562
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2026,
+		"value": 41076.1649547693
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2027,
+		"value": 41897.6882538647
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2028,
+		"value": 42735.642018942
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2029,
+		"value": 43590.3548593208
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2030,
+		"value": 44462.1619565072
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2031,
+		"value": 45351.4051956374
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2032,
+		"value": 46258.4332995501
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2033,
+		"value": 47183.6019655411
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2034,
+		"value": 48127.2740048519
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2035,
+		"value": 49089.819484949
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2036,
+		"value": 50071.6158746479
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2037,
+		"value": 51073.0481921409
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2038,
+		"value": 52094.5091559837
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2039,
+		"value": 53136.3993391034
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2040,
+		"value": 54199.1273258855
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2041,
+		"value": 55283.1098724032
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2042,
+		"value": 56388.7720698512
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2043,
+		"value": 57516.5475112483
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2044,
+		"value": 58666.8784614732
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2045,
+		"value": 59840.2160307027
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2046,
+		"value": 61037.0203513167
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2047,
+		"value": 62257.7607583431
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2048,
+		"value": 63502.9159735099
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2049,
+		"value": 64772.9742929801
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2050,
+		"value": 66068.4337788397
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2051,
+		"value": 67389.8024544165
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2052,
+		"value": 68737.5985035049
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2053,
+		"value": 70112.3504735749
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2054,
+		"value": 71514.5974830464
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2055,
+		"value": 72944.8894327074
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2056,
+		"value": 74403.7872213615
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2057,
+		"value": 75891.8629657888
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2058,
+		"value": 77409.7002251045
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2059,
+		"value": 78957.8942296066
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2060,
+		"value": 80537.0521141987
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2061,
+		"value": 82147.7931564827
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2062,
+		"value": 83790.7490196124
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2063,
+		"value": 85466.5640000046
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2064,
+		"value": 87175.8952800047
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2065,
+		"value": 88919.4131856048
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2066,
+		"value": 90697.8014493169
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2067,
+		"value": 92511.7574783032
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2068,
+		"value": 94361.9926278693
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2069,
+		"value": 96249.2324804267
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2070,
+		"value": 98174.2171300352
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2071,
+		"value": 100137.7014726359
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2072,
+		"value": 102140.4555020886
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2073,
+		"value": 104183.2646121304
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2074,
+		"value": 106266.929904373
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2075,
+		"value": 108392.2685024605
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2076,
+		"value": 110560.1138725097
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2077,
+		"value": 112771.3161499599
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2078,
+		"value": 115026.7424729591
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2079,
+		"value": 117327.2773224182
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2080,
+		"value": 119673.8228688666
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2081,
+		"value": 122067.2993262439
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2082,
+		"value": 124508.6453127688
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2083,
+		"value": 126998.8182190242
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2084,
+		"value": 129538.7945834047
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2085,
+		"value": 132129.5704750727
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2086,
+		"value": 134772.1618845742
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2087,
+		"value": 137467.6051222657
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2088,
+		"value": 140216.957224711
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2089,
+		"value": 143021.2963692052
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2090,
+		"value": 145881.7222965894
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2091,
+		"value": 148799.3567425211
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2092,
+		"value": 151775.3438773715
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2093,
+		"value": 154810.850754919
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2094,
+		"value": 157907.0677700173
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2095,
+		"value": 161065.2091254177
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2096,
+		"value": 164286.513307926
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2097,
+		"value": 167572.2435740846
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2098,
+		"value": 170923.6884455663
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2099,
+		"value": 174342.1622144776
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|CO2|Energy and Industrial Processes",
+		"unit": "Mt CO2/yr",
+		"year": 2100,
+		"value": 177829.0054587671
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2010,
+		"value": 928.727355
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2011,
+		"value": 1034.876878
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2012,
+		"value": 1060.368049
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2013,
+		"value": 1016.055511
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2014,
+		"value": 1131.243527
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2015,
+		"value": 1288.190261
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2016,
+		"value": 1371.5128759209
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2017,
+		"value": 1484.4581128976
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2018,
+		"value": 1542.1641965601
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2019,
+		"value": 1527.6538615186
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2020,
+		"value": 1590.6970140835
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2021,
+		"value": 1627.824718846
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2022,
+		"value": 1660.3812132229
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2023,
+		"value": 1693.5888374874
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2024,
+		"value": 1727.4606142372
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2025,
+		"value": 1762.0098265219
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2026,
+		"value": 1797.2500230523
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2027,
+		"value": 1833.1950235134
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2028,
+		"value": 1869.8589239836
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2029,
+		"value": 1907.2561024633
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2030,
+		"value": 1945.4012245126
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2031,
+		"value": 1984.3092490028
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2032,
+		"value": 2023.9954339829
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2033,
+		"value": 2064.4753426626
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2034,
+		"value": 2105.7648495158
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2035,
+		"value": 2147.8801465061
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2036,
+		"value": 2190.8377494362
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2037,
+		"value": 2234.654504425
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2038,
+		"value": 2279.3475945135
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2039,
+		"value": 2324.9345464037
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2040,
+		"value": 2371.4332373318
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2041,
+		"value": 2418.8619020785
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2042,
+		"value": 2467.23914012
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2043,
+		"value": 2516.5839229224
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2044,
+		"value": 2566.9156013809
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2045,
+		"value": 2618.2539134085
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2046,
+		"value": 2670.6189916767
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2047,
+		"value": 2724.0313715102
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2048,
+		"value": 2778.5119989404
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2049,
+		"value": 2834.0822389192
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2050,
+		"value": 2890.7638836976
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2051,
+		"value": 2948.5791613715
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2052,
+		"value": 3007.550744599
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2053,
+		"value": 3067.7017594909
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2054,
+		"value": 3129.0557946808
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2055,
+		"value": 3191.6369105744
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2056,
+		"value": 3255.4696487859
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2057,
+		"value": 3320.5790417616
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2058,
+		"value": 3386.9906225968
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2059,
+		"value": 3454.7304350488
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2060,
+		"value": 3523.8250437497
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2061,
+		"value": 3594.3015446247
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2062,
+		"value": 3666.1875755172
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2063,
+		"value": 3739.5113270276
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2064,
+		"value": 3814.3015535681
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2065,
+		"value": 3890.5875846395
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2066,
+		"value": 3968.3993363323
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2067,
+		"value": 4047.7673230589
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2068,
+		"value": 4128.7226695201
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2069,
+		"value": 4211.2971229105
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2070,
+		"value": 4295.5230653687
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2071,
+		"value": 4381.4335266761
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2072,
+		"value": 4469.0621972096
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2073,
+		"value": 4558.4434411538
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2074,
+		"value": 4649.6123099769
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2075,
+		"value": 4742.6045561764
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2076,
+		"value": 4837.4566472999
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2077,
+		"value": 4934.2057802459
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2078,
+		"value": 5032.8898958508
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2079,
+		"value": 5133.5476937679
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2080,
+		"value": 5236.2186476432
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2081,
+		"value": 5340.9430205961
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2082,
+		"value": 5447.761881008
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2083,
+		"value": 5556.7171186282
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2084,
+		"value": 5667.8514610007
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2085,
+		"value": 5781.2084902207
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2086,
+		"value": 5896.8326600252
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2087,
+		"value": 6014.7693132257
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2088,
+		"value": 6135.0646994902
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2089,
+		"value": 6257.76599348
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2090,
+		"value": 6382.9213133496
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2091,
+		"value": 6510.5797396166
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2092,
+		"value": 6640.7913344089
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2093,
+		"value": 6773.6071610971
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2094,
+		"value": 6909.079304319
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2095,
+		"value": 7047.2608904054
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2096,
+		"value": 7188.2061082135
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2097,
+		"value": 7331.9702303778
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2098,
+		"value": 7478.6096349853
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2099,
+		"value": 7628.181827685
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|F-Gases",
+		"unit": "Mt CO2-equiv/yr",
+		"year": 2100,
+		"value": 7780.7454642387
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2010,
+		"value": 10539.817
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2011,
+		"value": 10446.42833
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2012,
+		"value": 10593.89773
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2013,
+		"value": 10759.04688
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2014,
+		"value": 10866.28352
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2015,
+		"value": 10900.0
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2016,
+		"value": 11020.02002002
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2017,
+		"value": 11129.1291291291
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2018,
+		"value": 11238.2382382382
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2019,
+		"value": 11347.3473473473
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2020,
+		"value": 11347.3473473473
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2021,
+		"value": 11674.6746746747
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2022,
+		"value": 11908.1681681682
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2023,
+		"value": 12146.3315315315
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2024,
+		"value": 12389.2581621622
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2025,
+		"value": 12637.0433254054
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2026,
+		"value": 12889.7841919135
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2027,
+		"value": 13147.5798757518
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2028,
+		"value": 13410.5314732668
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2029,
+		"value": 13678.7421027322
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2030,
+		"value": 13952.3169447868
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2031,
+		"value": 14231.3632836825
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2032,
+		"value": 14515.9905493562
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2033,
+		"value": 14806.3103603433
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2034,
+		"value": 15102.4365675502
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2035,
+		"value": 15404.4852989012
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2036,
+		"value": 15712.5750048792
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2037,
+		"value": 16026.8265049768
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2038,
+		"value": 16347.3630350763
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2039,
+		"value": 16674.3102957779
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2040,
+		"value": 17007.7965016934
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2041,
+		"value": 17347.9524317273
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2042,
+		"value": 17694.9114803618
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2043,
+		"value": 18048.8097099691
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2044,
+		"value": 18409.7859041684
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2045,
+		"value": 18777.9816222518
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2046,
+		"value": 19153.5412546968
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2047,
+		"value": 19536.6120797908
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2048,
+		"value": 19927.3443213866
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2049,
+		"value": 20325.8912078143
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2050,
+		"value": 20732.4090319706
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2051,
+		"value": 21147.05721261
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2052,
+		"value": 21569.9983568622
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2053,
+		"value": 22001.3983239995
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2054,
+		"value": 22441.4262904794
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2055,
+		"value": 22890.254816289
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2056,
+		"value": 23348.0599126148
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2057,
+		"value": 23815.0211108671
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2058,
+		"value": 24291.3215330845
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2059,
+		"value": 24777.1479637461
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2060,
+		"value": 25272.6909230211
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2061,
+		"value": 25778.1447414815
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2062,
+		"value": 26293.7076363111
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2063,
+		"value": 26819.5817890373
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2064,
+		"value": 27355.9734248181
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2065,
+		"value": 27903.0928933144
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2066,
+		"value": 28461.1547511807
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2067,
+		"value": 29030.3778462044
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2068,
+		"value": 29610.9854031284
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2069,
+		"value": 30203.205111191
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2070,
+		"value": 30807.2692134148
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2071,
+		"value": 31423.4145976831
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2072,
+		"value": 32051.8828896368
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2073,
+		"value": 32692.9205474295
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2074,
+		"value": 33346.7789583781
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2075,
+		"value": 34013.7145375457
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2076,
+		"value": 34693.9888282966
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2077,
+		"value": 35387.8686048625
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2078,
+		"value": 36095.6259769598
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2079,
+		"value": 36817.538496499
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2080,
+		"value": 37553.889266429
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2081,
+		"value": 38304.9670517575
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2082,
+		"value": 39071.0663927927
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2083,
+		"value": 39852.4877206485
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2084,
+		"value": 40649.5374750615
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2085,
+		"value": 41462.5282245627
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2086,
+		"value": 42291.778789054
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2087,
+		"value": 43137.6143648351
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2088,
+		"value": 44000.3666521318
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2089,
+		"value": 44880.3739851744
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2090,
+		"value": 45777.9814648779
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2091,
+		"value": 46693.5410941755
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2092,
+		"value": 47627.411916059
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2093,
+		"value": 48579.9601543801
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2094,
+		"value": 49551.5593574677
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2095,
+		"value": 50542.5905446171
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2096,
+		"value": 51553.4423555094
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2097,
+		"value": 52584.5112026196
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2098,
+		"value": 53636.201426672
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2099,
+		"value": 54708.9254552055
+	},
+	{
+		"scenario": "Plus-2",
+		"region": "World",
+		"variable": "Emissions|N2O",
+		"unit": "kt N2O/yr",
+		"year": 2100,
+		"value": 55803.1039643096
+	}
+]
