@@ -2,6 +2,7 @@
 	import { goto } from '$app/navigation';
 	import { page } from '$app/stores';
 	import { browser } from '$app/environment';
+	import {base } from '$app/paths'
 
 	import variables from '$lib/data/variables.json';
 
@@ -43,7 +44,7 @@
 		} else if (scenarioValue[0] === 0) {
 			scenario = 'persistence';
 		}
-		if (browser) goto(`/pathway-demo/${scenario}`);
+		if (browser) goto(`${base}/pathway-demo/${scenario}`);
 	}
 	let selectedVariable = 'Emissions|CO2|Energy and Industrial Processes';
 
