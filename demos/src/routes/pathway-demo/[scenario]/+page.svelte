@@ -55,7 +55,7 @@
 	const upperRanges = ['95.0', '90.0', '83.3', '83.0', '75.0', '66.0'];
 	let selectedRangeIdx = 0;
 
-	$: variableData = data.scenario.filter((i) => i.variable === selectedVariable);
+	$: variableData = data?.scenario?.filter((i) => i.variable === selectedVariable);
 </script>
 
 <div class="wrapper">
@@ -75,7 +75,7 @@
 		<div class="plot">
 			<p>
 				{selectedVariable}<br />
-				<small>Unit: {variableData[0].unit}</small>
+				<small>Unit: {variableData?.length > 0 && variableData[0].unit}</small>
 			</p>
 			<EmissionsPlot data={variableData} />
 		</div>
@@ -106,7 +106,7 @@
 
 			<p>
 				Surface Temperature (GSAT)<br />
-				<small>Unit: {data.results[0].unit}</small>
+				<small>Unit: {data.results?.length > 0 && data.results[0].unit}</small>
 			</p>
 			<TemperaturePlot
 				data={data.results}

@@ -1,8 +1,10 @@
+import {base} from '$app/paths'
+
 /** @type {import('./$types').PageLoad} */
 export async function load({ fetch, params }) {
 	const [scenarioReq, resultsReq] = await Promise.all([
-		fetch(`/data/${params.scenario}.json`),
-		fetch(`/data/results-${params.scenario}.json`)
+		fetch(`${base}/data/${params.scenario}.json`),
+		fetch(`${base}/data/results-${params.scenario}.json`)
 	]);
 
 	if (scenarioReq.ok && resultsReq.ok) {
